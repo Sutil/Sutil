@@ -20,6 +20,11 @@ jobs:
           l2: '#8f6ae6'
           l3: '#9a7be3'
           l4: '#a58be0'
+          l5: '#a58be0'
+          l6: '#a58be0'
+          l7: '#a58be0'
+          l8: '#a58be0'
+          l9: '#a58be0'
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
