@@ -29,4 +29,6 @@ I am passionate about my work and I believe that making better software is a way
  
  ![Snake animation](https://github.com/Sutil/Sutil/blob/output/github-contribution-grid-snake2.svg)
 </div>
+ 
+ Do want to have an animation like that in your profile? [Check it!](https://github.com/Sutil/snk)
 
