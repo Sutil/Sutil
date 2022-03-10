@@ -31,4 +31,6 @@ I am passionate about my work and I believe that making better software is a way
 </div>
  
  Do want to have an animation like that in your profile? [Check it!](https://github.com/Sutil/snk)
+ 
+ ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sutil&repo=Sutil&countColorcountColor)
 
