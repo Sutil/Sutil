@@ -27,10 +27,4 @@ I am passionate about my work and I believe that making better software is a way
   <a href = "mailto:sutil.edu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edusutil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/Sutil/Sutil/blob/output/github-snake-dark.svg)
-</div>
- 
- Do want to have an animation like that in your profile? [Check it!](https://github.com/Sutil/snk)
- 
- ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sutil&repo=Sutil&countColorcountColor)
 
