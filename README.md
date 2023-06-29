@@ -6,11 +6,6 @@ I have worked with the development of ERP systems for the textile industry, CRM 
 I have a bachelor’s degree in Informatics from the State University of Maringá, institution which I had the pleasure of participating in a project that was registered by the National Institute of Industrial Property and recognized by the Nucleus of Technological Innovation.
 I am passionate about my work and I believe that making better software is a way to make a better world.
 
- <div>
-  <a href="https://github.com/Sutil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sutil&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutil&layout=compact&langs_count=7&theme=prussian"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sutil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sutil-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
